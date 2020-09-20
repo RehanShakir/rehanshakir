@@ -14,7 +14,7 @@
 [<img align="left" alt="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="Instagram" width="22px" src="http://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
+[<img align="left" alt="Stackoverflow" width="22px" src="http://simpleicons.org/icons/stackoverflow.svg" />][stackoverflow]
 
 <br />
 
@@ -64,5 +64,4 @@
 [twitter]: https://twitter.com/rehanshakir23
 [instagram]: https://www.instagram.com/_rehan_shakir_/
 [linkedin]: https://www.linkedin.com/in/rehanshakir/
-
-[stackoverflow]:
+[stackoverflow]: https://stackoverflow.com/users/11583310/rehan-shakir/
