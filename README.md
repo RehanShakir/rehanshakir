@@ -1,7 +1,7 @@
 ### Hi there, I'm Rehan - 👋
 
 [![Website](https://img.shields.io/website?label=rehanshakir.com&style=for-the-badge&url=http%3A%2F%2Frehanshakir.com%2F)](http://rehanshakir.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/rehanshakir23?color=blue&logo=twitter&style=for-the-badge)]
+[![Twitter Follow](https://img.shields.io/twitter/follow/rehanshakir23?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/rehanshakir23)
 
 
 ## I'm a Developer, want to learn something new!
