@@ -1,7 +1,8 @@
 ### Hi there, I'm Rehan - 👋
 
-[![Website](https://img.shields.io/website?label=rehanshakir.com&style=plastic&url=http%3A%2F%2Frehanshakir.com%2F)](http://rehanshakir.com/)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+[![Website](https://img.shields.io/website?label=rehanshakir.com&style=for-the-badge&url=http%3A%2F%2Frehanshakir.com%2F)](http://rehanshakir.com/)
+[![Twitter Follow](https://img.shields.io/twitter/follow/rehanshakir23?color=blue&logo=twitter&style=for-the-badge)]
+
 
 ## I'm a Developer, want to learn something new!
 
