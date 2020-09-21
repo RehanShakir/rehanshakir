@@ -4,11 +4,11 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/rehanshakir23?color=blue&logo=twitter&style=for-the-badge)](https://twitter.com/rehanshakir23)
 
 
-## I'm a Developer, want to learn something new!
+## I'm a Developer, wants to learn something new!
 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2020 Goals: Learn AI/ML
 - ⚡ Fun fact: I love to learn new things
 
 ### Know More About Me
