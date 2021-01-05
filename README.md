@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn AI/ML
+- 🥅 2021 Goals: Learn AI/ML
 - ⚡ Fun fact: I love to learn new things
 
 ### Know More About Me
