@@ -8,8 +8,9 @@
 
 - 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Learn AI/ML
+- 🥅 Goals: MERN Stack
 - ⚡ Fun fact: I love to learn new things
+- 🌐 https://rehanshakir.com/
 
 ### Know More About Me
 
