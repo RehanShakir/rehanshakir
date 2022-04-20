@@ -6,9 +6,8 @@
 
 ## I'm a Developer, wants to learn something new!
 
-- 🌱 I’m currently learning React JS
 - 👯 I’m looking to collaborate with other developers
-- 🥅 Goals: MERN Stack
+- 🥅 Currently: MERN Stack Developer
 - ⚡ Fun fact: I love to learn new things
 - 🌐 https://rehanshakir.com/
 
