@@ -45,7 +45,13 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-<img align="left" alt="Rehan's Github Stats" src="https://github-readme-stats.rehanshakir.vercel.app/api?username=rehanshakir&show_icons=true&hide_border=true" />
+## Stats
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RehanShakir&show_icons=true&locale=en&layout=compact&count_private=true&theme=radical&langs_count=10" alt="RehanShakir" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RehanShakir&show_icons=true&locale=en&count_private=true&theme=radical" alt="RehanShakir" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RehanShakir&theme=radical" alt="RehanShakir" /></p>
 
 </details>
 
